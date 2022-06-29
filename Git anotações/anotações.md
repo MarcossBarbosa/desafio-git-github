@@ -8,7 +8,7 @@
 
   - Trees: A Árvore de Trabalho no Git é um diretório (e seus arquivos e subdiretórios) em seu sistema de arquivos que está associado a um repositório. Está cheio de arquivos que você edita, onde você adiciona novos arquivos e dos quais você remove arquivos desnecessários.
 
-  - Commits: Commit é o objeto q vai juntar tudo o que vai dar sentido a alteração , o commit recebe as blobs e as trees.
+  - Commits: Commit é o objeto que vai juntar tudo o que vai dar sentido a alteração , o commit recebe as blobs e as trees.
 
     ## Comandos git
 
