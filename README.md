@@ -1,4 +1,4 @@
 # desafio-git-github
-primeiros desafio DIO
+primeiro desafio DIO
 
 ## [link download git](https://git-scm.com/downloads)
